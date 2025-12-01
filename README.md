@@ -87,9 +87,15 @@
              <img src="preview/model_attach_to_admin.png" />
         </td>
     </tr>
-
-    
-    
-
+    <tr>
+        <td>10</td>
+        <td>
+            Run the migration command to add the above models in db.sqlite3 <br/>
+            <pre><code>   
+             python manage.py makemigrations
+             python manage.py migrate
+            </code></pre> 
+        </td>
+    </tr>
 </table>
 

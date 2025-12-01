@@ -83,13 +83,6 @@
     <tr>
         <td>9</td>
         <td>
-            attaching model to admin panel for Crud features
-             <img src="preview/model_attach_to_admin.png" />
-        </td>
-    </tr>
-    <tr>
-        <td>10</td>
-        <td>
             Run the migration command to add the above models in db.sqlite3 <br/>
             <pre><code>   
              python manage.py makemigrations
@@ -97,5 +90,13 @@
             </code></pre> 
         </td>
     </tr>
+    <tr>
+        <td>10</td>
+        <td>
+            attaching model to admin panel for Crud features
+             <img src="preview/model_attach_to_admin.png" />
+        </td>
+    </tr>
+    
 </table>
 

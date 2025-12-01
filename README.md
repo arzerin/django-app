@@ -75,7 +75,7 @@
     </tr>
     <tr>
         <td>8</td>
-        <td><img src='preview/model_code_preview' /></td>
+        <td><img src='preview/model_code_preview.png' /></td>
     </tr>
 
     

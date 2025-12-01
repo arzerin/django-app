@@ -76,18 +76,13 @@
     <tr>
         <td>8</td>
         <td>
-            in firstapp folder, models.py<br/>
-
-            <pre><code class="language-python">
-            
 ```python
 class Reservation(models.Model):
     first_name = models.CharField(max_length=255)
     last_name = models.CharField(max_length=255)
     guest_count = models.IntegerField()
     reservation_time = models.DateField(auto_now=True)
-    comments = models.CharField(max_length=1000)
-            </code></pre>
+    comments = models.CharField(max_length=1000)  
         </td>
     </tr>
 

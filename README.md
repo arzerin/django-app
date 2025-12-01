@@ -75,10 +75,21 @@
     </tr>
     <tr>
         <td>8</td>
-        <td><img src='preview/model_code_preview.png' /></td>
+        <td>
+            updating models to migrate
+             <img src="preview/model_code_preview.png" />
+        </td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>
+            attaching model to admin panel for Crud features
+             <img src="preview/model_attach_to_admin.png" />
+        </td>
     </tr>
 
     
     
 
 </table>
+

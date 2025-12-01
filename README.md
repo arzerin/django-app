@@ -97,6 +97,20 @@
              <img src="preview/model_attach_to_admin.png" />
         </td>
     </tr>
+    <tr>
+        <td>11</td>
+        <td>
+            App urls.py
+             <img src="preview/firstapp_urls.png" />
+        </td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>
+            App views.py
+             <img src="preview/firstapp_views.png" />
+        </td>
+    </tr>
     
 </table>
 
